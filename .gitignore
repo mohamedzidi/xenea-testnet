@@ -1,0 +1,16 @@
+Foundry output
+out/
+cache/
+lib/
+
+Environment variables
+.env
+
+Hardhat (if any remnants left)
+artifacts/
+cache/
+typechain-types/
+
+Others
+node_modules/
+.DS_Store
